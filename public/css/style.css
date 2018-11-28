@@ -1,0 +1,8 @@
+.my-list:hover{
+	cursor: pointer;
+	background-color: #428bca;
+	color: #fff;
+}
+.my-list-type{
+	list-style-type: none;
+}
